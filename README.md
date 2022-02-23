@@ -1,4 +1,4 @@
-# Poop Tracker
+# P Tracker
 
 This project includes all the dependencies and set up needed for you to work within defined code standards and structure to get you up and running quickly.
 
